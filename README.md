@@ -1,6 +1,6 @@
 # Miles Ka Safar MERN
 
-JavaScript-only MERN travel website inspired by the sales flow of `bookoftrips.in`.
+JavaScript-only MERN travel `.
 
 ## Structure
 
