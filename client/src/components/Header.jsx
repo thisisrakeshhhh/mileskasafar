@@ -30,10 +30,7 @@ export function Header() {
             />
           </div>
         </Link>
-        <a className="header-phone" href="tel:+917015415229">
-          <span className="phone-icon">☎</span>
-          <span>+917015415229</span>
-        </a>
+        
         <nav className="header-nav" aria-label="Primary">
           {navItems.map((item) => (
             <Link key={item.href} to={item.href}>

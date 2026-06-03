@@ -13,7 +13,7 @@ export function PackageCard({ travelPackage }) {
       <div className="package-card-body">
         <h3 className="package-title-strong">{travelPackage.title}</h3>
         <div className="package-facts">
-          <span>📍 Delhi/Chandigarh</span>
+          <span>📍 Chandigarh</span>
           <span>🕒 {travelPackage.duration}</span>
         </div>
         <p>{travelPackage.summary}</p>
